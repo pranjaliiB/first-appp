@@ -1,0 +1,6 @@
+{
+  "name": "Rise Again",
+  "description": "A modern Android productivity app with a peaceful, minimal, and motivating interface that pushes you toward consistency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

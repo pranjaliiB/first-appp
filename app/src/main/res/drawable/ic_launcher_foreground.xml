@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Clean, bold rising sun silhouette inside the safe zone (centered 66dp) -->
+    <!-- Center of canvas is (54, 54) -->
+    <path
+        android:pathData="M54,34c-11,0 -20,9 -20,20h40c0,-11 -9,-20 -20,-20z"
+        android:fillColor="#4EE2C0" />
+    <path
+        android:pathData="M30,59h48v2h-48z"
+        android:fillColor="#4EE2C0" />
+    <path
+        android:pathData="M34,64h40v2h-40z"
+        android:fillColor="#1E88E5" />
+    <!-- Sun Rays radiating upwards -->
+    <path
+        android:pathData="M54,20l0,8"
+        android:strokeColor="#7E57C2"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M32,32l5.65,5.65"
+        android:strokeColor="#7E57C2"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M76,32l-5.65,5.65"
+        android:strokeColor="#7E57C2"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M22,54l8,0"
+        android:strokeColor="#7E57C2"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M86,54l-8,0"
+        android:strokeColor="#7E57C2"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+</vector>
